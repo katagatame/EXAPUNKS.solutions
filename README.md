@@ -34,3 +34,19 @@ Your size score is the total number of instructions in all of your EXAs, includi
 #### Activity
 
 Your activity score is the number of times EXAs you control execute `LINK` or `KILL` instructions.
+
+## Current Progress
+
+| puzzle                                                    | cycles              | size                | activity           |
+| --------------------------------------------------------- | ------------------- | ------------------- | ------------------ |
+| [Trash World News Tutorial 1](01%20Trash%20World%20News/) | 4<sup>**\***</sup>  | 3<sup>**\***</sup>  | 2<sup>**\***</sup> |
+| [Trash World News Tutorial 2](02%20Trash%20World%20News/) | 7<sup>**\***</sup>  | 6<sup>**\***</sup>  | 2<sup>**\***</sup> |
+| [Trash World News Tutorial 3](03%20Trash%20World%20News/) | 10                  | 12<sup>**\***</sup> | 4                  |
+| [Trash World News Tutorial 4](04%20Trash%20World%20News/) | 406                 | 14                  | 3                  |
+| [Euclid's Pizza](05%20Euclid's%20Pizza/)                  | 19                  | 12<sup>**\+**</sup> | 1<sup>**\***</sup> |
+| [Mitsuzen HDI-10](06%20Mitsuzen%20HDI-10/)                | 241                 | 23                  | 6<sup>**\***</sup> |
+| [Last Stop SnaxNET](07%20Last%20Stop%20SnaxNET/)          | 29<sup>**\***</sup> | 11<sup>**\***</sup> | 2<sup>**\***</sup> |
+| [Zebros Copies](08%20Zebros%20Copies/)                    | 148                 | 29                  | 4                  |
+
+_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
+_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._
