@@ -16,4 +16,5 @@
 | **file**  | [solution](cycles/XA.exa)<sup>**\***</sup> | [solution](size/XA.exa)<sup>**\***</sup> | [solution](activity/XA.exa)<sup>**\***</sup> |
 
 _<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
+
 _<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
