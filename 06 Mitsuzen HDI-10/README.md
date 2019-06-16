@@ -10,10 +10,10 @@
 
 ## Solution(s)
 
-|           | cycles                    | size                    | activity                    |
-| --------- | ------------------------- | ----------------------- | --------------------------- |
-| **count** | 241                       | 23                      | 6                           |
-| **file**  | [solution](cycles/XA.exa) | [solution](size/XA.exa) | [solution](activity/XA.exa) |
+|           | cycles              | size              | activity              |
+| --------- | ------------------- | ----------------- | --------------------- |
+| **count** | 241                 | 23                | 6                     |
+| **file**  | [solution](cycles/) | [solution](size/) | [solution](activity/) |
 
 _<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
 _<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
