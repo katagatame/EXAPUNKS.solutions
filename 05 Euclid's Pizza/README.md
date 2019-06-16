@@ -13,8 +13,8 @@
 ### Solution Files
 
 -   [cycles](cycles/)
--   [size](size/) <sup>**\+**</sup>
--   [activity](activity/) <sup>**\***</sup>
+-   [size](size/)<sup>**\+**</sup>
+-   [activity](activity/)<sup>**\***</sup>
 
 _<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
 _<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._

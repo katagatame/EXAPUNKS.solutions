@@ -1,4 +1,4 @@
-# 08 Zebroes Copies
+# 08 Zebros Copies
 
 > Erase Ghast's debt to the copy shop by zeroing out his balance in the customer database (file 200) and appending a payment to the payment log (file 201) with today's date and the exact amount of his prior balance.
 >
@@ -8,9 +8,9 @@
 
 ## Main Solution
 
-![Zebroes Copies Solution][solution]
+![Zebros Copies Solution][solution]
 
-[solution]: https://i.imgur.com/aluyFdk.gif "Zebroes Copies Solution"
+[solution]: https://i.imgur.com/aluyFdk.gif "Zebros Copies Solution"
 
 ### Solution Files
 

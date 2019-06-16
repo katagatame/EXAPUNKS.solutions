@@ -10,11 +10,17 @@
 
 [solution]: https://i.imgur.com/K9G8ZfS.gif "Trash World News (Tutorial 4) Solution"
 
+## Activity Optimization
+
+![Trash World News (Tutorial 4) Solution - Activity Optimization][activity]
+
+[activity]: https://i.imgur.com/HUxpAfw.gif "Trash World News (Tutorial 4) Solution - Activity Optimization"
+
 ### Solution Files
 
 -   [cycles](cycles/)
--   [size](size/) <sup>**\+**</sup>
--   [activity](activity/)
+-   [size](size/)<sup>**\+**</sup>
+-   [activity](activity/)<sup>**\+**</sup>
 
 _<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
 _<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._
