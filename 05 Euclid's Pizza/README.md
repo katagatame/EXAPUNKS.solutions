@@ -6,12 +6,17 @@
 >
 > Note that all orders, including yours, will consist of exactly five keywords.
 
-## Solution(s)
+### Main Solution
 
-|           | cycles              | size                               | activity                               |
-| --------- | ------------------- | ---------------------------------- | -------------------------------------- |
-| **count** | 19                  | 12                                 | 1                                      |
-| **file**  | [solution](cycles/) | [solution](size/)<sup>**\+**</sup> | [solution](activity/)<sup>**\***</sup> |
+![Euclid's Pizza Solution][solution]
 
-_<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
-_<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
+[solution]: https://i.imgur.com/OCB0iXN.gif "Euclid's Pizza Solution"
+
+#### Solution Files
+
+-   [cycles](cycles/)
+-   [size](size/) <sup>**\+**</sup>
+-   [activity](activity/) <sup>**\***</sup>
+
+_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
+_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._

@@ -6,12 +6,17 @@
 >
 > Note that the target keyword will appear in a different position in each of the 100 test runs. To view and debug each of the different test runs, click the arrow buttons next to the "TEST RUN" display above.
 
-## Solution(s)
+### Main Solution (Optimal)
 
-|           | cycles                               | size                               | activity                               |
-| --------- | ------------------------------------ | ---------------------------------- | -------------------------------------- |
-| **count** | 29                                   | 11                                 | 2                                      |
-| **file**  | [solution](cycles/)<sup>**\***</sup> | [solution](size/)<sup>**\***</sup> | [solution](activity/)<sup>**\***</sup> |
+![Last Stop SnaxNET Solution][solution]
 
-_<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
-_<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
+[solution]: https://i.imgur.com/nKBSkHV.gif "Last Stop SnaxNET Solution"
+
+#### Solution Files
+
+-   [cycles](cycles/) <sup>**\***</sup>
+-   [size](size/) <sup>**\***</sup>
+-   [activity](activity/) <sup>**\***</sup>
+
+_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
+_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._

@@ -8,12 +8,17 @@
 >
 > For more information see "Debugging the Phage" in the first issue of the zine.
 
-## Solution(s)
+### Main Solution
 
-|           | cycles              | size              | activity              |
-| --------- | ------------------- | ----------------- | --------------------- |
-| **count** | 241                 | 23                | 6                     |
-| **file**  | [solution](cycles/) | [solution](size/) | [solution](activity/) |
+![Mitsuzen HDI-10 Solution][solution]
 
-_<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
-_<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
+[solution]: https://i.imgur.com/Txqop9B.gif "Mitsuzen HDI-10 Solution"
+
+#### Solution Files
+
+-   [cycles](cycles/)
+-   [size](size/)
+-   [activity](activity/)
+
+_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
+_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._

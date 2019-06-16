@@ -8,12 +8,17 @@
 >
 > For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
-## Solution(s)
+### Main Solution (Optimal)
 
-|           | cycles                                     | size                                     | activity                                     |
-| --------- | ------------------------------------------ | ---------------------------------------- | -------------------------------------------- |
-| **count** | 7                                          | 6                                        | 2                                            |
-| **file**  | [solution](cycles/XA.exa)<sup>**\***</sup> | [solution](size/XA.exa)<sup>**\***</sup> | [solution](activity/XA.exa)<sup>**\***</sup> |
+![Trash World News (Tutorial 2) Solution][solution]
 
-_<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
-_<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
+[solution]: https://i.imgur.com/12LBaps.gif "Trash World News (Tutorial 2) Solution"
+
+#### Solution Files
+
+-   [cycles](cycles/) <sup>**\***</sup>
+-   [size](size/) <sup>**\***</sup>
+-   [activity](activity/) <sup>**\***</sup>
+
+_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
+_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._

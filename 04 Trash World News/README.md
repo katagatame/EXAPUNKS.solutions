@@ -6,12 +6,17 @@
 >
 > For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
-## Solution(s)
+### Main Solution
 
-|           | cycles              | size                               | activity              |
-| --------- | ------------------- | ---------------------------------- | --------------------- |
-| **count** | 406                 | 14                                 | 3                     |
-| **file**  | [solution](cycles/) | [solution](size/)<sup>**\+**</sup> | [solution](activity/) |
+![Trash World News (Tutorial 4) Solution][solution]
 
-_<sup>**\***</sup> Represents a `TOP_PERCENTILE` solution._
-_<sup>**\+**</sup> Represents a `TENTH_PERCENTILE` solution._
+[solution]: https://i.imgur.com/K9G8ZfS.gif "Trash World News (Tutorial 4) Solution"
+
+#### Solution Files
+
+-   [cycles](cycles/)
+-   [size](size/) <sup>**\+**</sup>
+-   [activity](activity/)
+
+_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
+_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._
