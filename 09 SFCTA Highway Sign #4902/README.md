@@ -15,6 +15,3 @@
 -   [cycles](cycles/)
 -   [size](size/)
 -   [activity](activity/)
-
-_<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
-_<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._
