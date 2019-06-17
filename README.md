@@ -49,6 +49,7 @@ Your activity score is the number of times EXAs you control execute `LINK` or `K
 | [Zebros Copies](08%20Zebros%20Copies/)                             | 148                 | 29                  | 4                   |
 | [SFCTA Highway Sign #4902](09%20SFCTA%20Highway%20Sign%20%234902/) | 169                 | 27                  | 2                   |
 | [Unknown Network 1](10%20Unknown%20Network%201/)                   | 29                  | 20                  | 27<sup>**\***</sup> |
+| [UC Berkeley](11%20UC%20Berkeley/)                                 | 412                 | 43                  | 8                   |
 
 _<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
 _<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._
