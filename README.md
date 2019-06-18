@@ -50,6 +50,9 @@ Your activity score is the number of times EXAs you control execute `LINK` or `K
 | [SFCTA Highway Sign #4902](09%20SFCTA%20Highway%20Sign%20%234902/) | 169                 | 27                  | 2                   |
 | [Unknown Network 1](10%20Unknown%20Network%201/)                   | 29                  | 20                  | 27<sup>**\***</sup> |
 | [UC Berkeley](11%20UC%20Berkeley/)                                 | 412                 | 43                  | 8                   |
+| [WorkHouse](12%20WorkHouse/)                                       | 677                 | 30                  | 2<sup>**\***</sup>  |
+| [Equity First Bank](13%20Equity%20First%20Bank/)                   | 3009                | 36                  | 10<sup>**\***</sup> |
+| [Mitsuzen HDI-10 (Heart)](14%20Mitsuzen%20HDI-10%20%28Heart%29/)   | 92<sup>**\+**</sup> | 33                  | 7<sup>**\***</sup>  |
 
 _<sup>**\***</sup> represents a `TOP_PERCENTILE` solution._
 _<sup>**\+**</sup> represents a `TENTH_PERCENTILE` solution._
