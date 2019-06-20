@@ -1,4 +1,4 @@
-# 07 Last Stop SnaxNET
+# 07 Last Stop SNAXNET
 
 > Remove the keyword <u>PEANUTS</u> (file 300) from the Peanut Blast recipe (file 237).
 >
@@ -6,9 +6,9 @@
 
 ## Main Solution (Optimal)
 
-![Last Stop SnaxNET Solution][solution]
+![Last Stop SNAXNET Solution][solution]
 
-[solution]: https://i.imgur.com/nKBSkHV.gif "Last Stop SnaxNET Solution"
+[solution]: https://i.imgur.com/nKBSkHV.gif "Last Stop SNAXNET Solution"
 
 ### Solution Files
 

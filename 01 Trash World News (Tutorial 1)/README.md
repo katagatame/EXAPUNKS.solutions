@@ -1,4 +1,4 @@
-# 01 Trash World News
+# 01 Trash World News (Tutorial 1)
 
 > Move file 200 to the **outbox**.
 >

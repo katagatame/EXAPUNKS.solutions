@@ -1,4 +1,4 @@
-# 02 Trash World News
+# 02 Trash World News (Tutorial 2)
 
 > Add the first two values of file 200, multiply the result by the third value, and then subtract the fourth value. Append the result to the end of the file and then move it to the **outbox**.
 >
