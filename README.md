@@ -81,7 +81,7 @@ Your activity score is the number of times EXAs you control execute `LINK` or `K
 		<td>6<sup><strong>*</strong></sup></td>
 	</tr>
 	<tr>
-		<td><a href="07%20Last%20Stop%20SNAXNET/">Last Stop SNAXNET</a></td>
+		<td><a href="07%20Last%20Stop%20SnaxNET/">Last Stop SNAXNET</a></td>
 		<td>29<sup><strong>*</strong></sup></td>
 		<td>11<sup><strong>*</strong></sup></td>
 		<td>2<sup><strong>*</strong></sup></td>
