@@ -144,6 +144,12 @@ Your activity score is the number of times EXAs you control execute `LINK` or `K
 		<td>23</td>
 		<td>7</td>
 	</tr>
+	<tr>
+		<td><a href="17%20TEC%20Redshift™%20Homebrew/">18Redshift™ Homebrew</a></td>
+		<td>n/a</td>
+		<td>n/a</td>
+		<td>n/a</td>
+	</tr>
 </table>
 
 _<sup><strong>\*</strong></sup> represents a `TOP_PERCENTILE` solution._
